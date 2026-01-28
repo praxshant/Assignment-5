@@ -1,6 +1,6 @@
-# Assignment 5 – Using TOPSIS to Pick a Pre-Trained Text Generation Model (Like a Normal Human Would)
+# Assignment 5 – Using TOPSIS to Pick a Pre-Trained Text Generation Model
 
-## 1. What are we even doing?
+## 1. What am i doing?
 
 The question for this assignment is very practical:
 
@@ -247,4 +247,5 @@ But for this assignment, the goal is to clearly demonstrate:
 ---
 
 ## THANK YOU!!
+
 
