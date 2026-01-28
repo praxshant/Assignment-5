@@ -246,10 +246,5 @@ But for this assignment, the goal is to clearly demonstrate:
 
 ---
 
-## 10. How to Run
+## THANK YOU!!
 
-1. Open the Colab notebook: `topsis_text_generation_9models.ipynb`.  
-2. Run all cells.  
-3. Check the printed **result table** and the **bar chart**.
-
-That’s it – you have a complete, reproducible TOPSIS pipeline for choosing a text generation model.
